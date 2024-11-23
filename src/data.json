@@ -1,0 +1,41 @@
+{
+  "faqs": [
+    {
+      "questions": "What is React?",
+      "answers": "A JavaScript library for building user interfaces."
+    },
+    { "questions": "Who developed React?", "answers": "Facebook" },
+    {
+      "questions": "What is JSX?",
+      "answers": "A syntax extension for JavaScript, used with React to describe UI elements."
+    },
+    {
+      "questions": "What is a component in React?",
+      "answers": "A reusable piece of the UI."
+    },
+    {
+      "questions": "What are the types of components in React?",
+      "answers": "Functional and Class components."
+    },
+    {
+      "questions": "What is a functional component?",
+      "answers": "A JavaScript function that returns JSX."
+    },
+    {
+      "questions": "What is a class component?",
+      "answers": "A JavaScript class that extends React.Component and has a render method."
+    },
+    {
+      "questions": "What is a state in React?",
+      "answers": "An object that holds dynamic data within a component."
+    },
+    {
+      "questions": "What is a prop in React?",
+      "answers": "Short for “properties”, they are read-only inputs passed to a component."
+    },
+    {
+      "questions": "What is the difference between state and props?",
+      "answers": "State is managed within the component, props are passed to the component."
+    }
+  ]
+}
